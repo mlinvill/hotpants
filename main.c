@@ -1,3 +1,5 @@
+#define DEFINE_VARIABLES
+
 #include<stdio.h>
 #include<string.h>
 #include<math.h>

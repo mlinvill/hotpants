@@ -20,6 +20,7 @@ char      *inConv = NULL;
 long      oNaxes[2];
 char      **regions = NULL;
 float     xConv=1e10, yConv=1e10;
+int       rPixX=0, rPixY=0;
 
 /* funcs */
 void   getKernelInfo(char *);
